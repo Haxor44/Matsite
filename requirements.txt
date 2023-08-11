@@ -160,7 +160,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 sqlparse==0.4.3
-ssort==0.11.5
+ssort==0.10.0
 stdlib-list==0.8.0
 stevedore==3.5.0
 termcolor==1.1.0
