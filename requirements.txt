@@ -2,7 +2,7 @@ alabaster==0.7.12
 asgiref==3.6.0
 astatine==0.3.2
 astor==0.8.1
-astpretty==3.0.0
+astpretty==2.1.0
 astroid==2.11.5
 asttokens==2.0.5
 atomicwrites==1.4.0
