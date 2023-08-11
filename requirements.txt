@@ -59,7 +59,7 @@ flake8-executable==2.1.1
 flake8-expression-complexity==0.0.11
 flake8-fixme==1.1.1
 flake8-functions==0.0.7
-flake8-functions-names==0.3.0
+flake8-functions-names== 0.1.0
 flake8-future-annotations==0.0.5
 flake8-helper==0.2.1
 flake8-isort==4.1.1
@@ -178,7 +178,3 @@ typing-inspect==0.7.1
 tzdata==2022.7
 untokenize==0.1.1
 urllib3==1.25.9
-virtualenv==20.14.1
-wemake-python-styleguide==0.16.1
-wrapt==1.14.1
-zipp==3.8.0
