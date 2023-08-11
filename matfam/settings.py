@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'matfam.wsgi.application'
+WSGI_APPLICATION = 'matfamApp.wsgi.application'
 
 
 # Database
@@ -116,8 +116,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
-STATIC_URL = 'matfamApp/static/'
-MEDIA_URL = 'matfamApp/static/images/'
+STATIC_URL = 'static/'
+MEDIA_URL = 'images/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
