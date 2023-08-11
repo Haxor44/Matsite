@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'matfamApp.wsgi.application'
+WSGI_APPLICATION = 'matfam.wsgi.application'
 
 
 # Database
