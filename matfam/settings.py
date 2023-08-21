@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'matfamApp.apps.matfamAppConfig',
+    'matfamApp',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
